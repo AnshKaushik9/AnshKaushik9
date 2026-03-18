@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?weight=600&size=24&color=00FFD1&background=0D1117&center=true&vCenter=true&lines=Ansh+Kaushik;Computer+Science+Student)
 # Hi 👋, I'm Ansh Kaushik
 
 ## 🚀 About Me
