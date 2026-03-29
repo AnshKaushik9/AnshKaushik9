@@ -22,6 +22,19 @@
 
 ---
 
+## 📊 GitHub Activity & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshKaushik9&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshKaushik9&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshKaushik9&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ansh-kaushik-b01014399" target="blank">
